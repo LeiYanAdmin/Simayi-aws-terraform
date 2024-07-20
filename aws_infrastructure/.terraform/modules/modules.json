@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"internet_gateway","Source":"./modules/internet_gateway","Dir":"modules/internet_gateway"},{"Key":"nat_gateway","Source":"./modules/nat_gateway","Dir":"modules/nat_gateway"},{"Key":"subnets","Source":"./modules/subnets","Dir":"modules/subnets"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
